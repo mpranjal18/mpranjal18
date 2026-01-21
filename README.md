@@ -17,5 +17,8 @@ I’m currently working on Designing and refining AI prompts, workflows, and con
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mpranjal18&icon=10&color=5)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://giews.fra.appwrite.run/mpranjal18/terminal" alt="Views"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
