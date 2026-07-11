@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/mehra-pranjal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mpranjal1805@gmail.com"><img src="https://img.shields.io/badge/Email-mpranjal1805%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+from+idea+to+deployment;Prompt+Engineering+%7C+Agentic+AI+%7C+LangChain+%2F+LangGraph;Full-Stack+Dev+%7C+Cybersecurity+%7C+Applied+ML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+from+idea+to+deployment;Prompt+Engineering+%7C+Agentic+AI+%7C+LangChain+%2F+LangGraph;Full-Stack+Dev+%7C+Cybersecurity+%7C+AI+Engineer" alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +19,7 @@ Selected from **20,000+ applicants** for Anthropic's Claude Impact Lab Hackathon
 
 - 🔭 Currently building **Trackora**, an AI-powered career operating system, and an **AI SOC Assistant** for security operations
 - 🌱 Deepening my skills in **Agentic AI (LangChain & LangGraph)**, advanced system design, and LLM evaluation/reliability
-- 🤝 Open to collaborating on AI-powered products, cybersecurity tooling, and applied ML with real-world impact
+- 🤝 Open to collaborating on AI-powered products, cybersecurity tooling, and AI engineering with real-world impact
 - 💬 Ask me about full-stack dev (MERN/Django/FastAPI), REST APIs, prompt engineering, or shipping an idea to a deployed product
 - ⚡ Fun fact: I can take an idea from a blank screen to a deployed product faster than I can explain it
 
@@ -42,8 +42,8 @@ Shipped two full-stack MERN apps (a 3D/2D Excel analytics tool and a blogging pl
 <td width="50%" valign="top">
 
 **🧠 Trackora**
-AI Career Operating System — tracks applications, tailors resumes, and automates job-hunt workflows.
-`Next.js 15` `TypeScript` `Express` `PostgreSQL/Supabase` `Claude & Gemini APIs`
+Solo-built AI career operating system — ATS resume scoring engine, Google OAuth auth layer, and full test coverage, shipped end-to-end in under 3 months.
+`Next.js 15` `TypeScript` `Express` `Prisma` `PostgreSQL` `Vitest/Supertest`
 
 </td>
 <td width="50%" valign="top">
@@ -58,7 +58,7 @@ Security Operations Center assistant with a Sigma-rule detection engine and agen
 <td width="50%" valign="top">
 
 **🌾 KrishiCredit**
-ML-based agricultural credit scoring engine with explainable predictions.
+ML-based agricultural credit scoring engine — 85% accuracy, cut manual underwriting workload by 60% via SHAP-explainable predictions.
 `Random Forest` `SHAP` `FastAPI` `Python`
 
 </td>
@@ -123,12 +123,14 @@ Cybersecurity scanning tool built for real-world vulnerability detection and rep
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mpranjal18&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpranjal18&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mpranjal18&label=Public%20Repos&query=$.public_repos&color=5EEAD4&style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/mpranjal18?label=Followers&color=5EEAD4&style=for-the-badge&logo=github)
+
 </div>
 
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=mpranjal18&theme=vue-dark&hide_border=true"/>
+<sub>Live contribution stats can be found directly on <a href="https://github.com/mpranjal18">github.com/mpranjal18</a></sub>
 </div>
 
 ---
