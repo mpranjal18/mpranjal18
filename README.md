@@ -1,144 +1,663 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:5EEAD4&height=220&section=header&text=Pranjal%20Mehra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Prompt%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Systems%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0E14,100:5EEAD4&text=Pranjal%20Mehra&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full-Stack%20Developer%20|%20Prompt%20Engineer&descAlignY=58&descSize=18"/>
 
-<a href="https://linkedin.com/in/mehra-pranjal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mpranjal1805@gmail.com"><img src="https://img.shields.io/badge/Email-mpranjal1805%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=5EEAD4&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Prompt+Engineer;LangChain+%7C+LangGraph;FastAPI+%7C+Next.js;Cybersecurity+Enthusiast;Building+AI+Products+From+Idea+To+Deployment"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+from+idea+to+deployment;Prompt+Engineering+%7C+Agentic+AI+%7C+LangChain+%2F+LangGraph;Full-Stack+Dev+%7C+Cybersecurity+%7C+AI+Engineer" alt="Typing SVG" />
+<br>
+
+<a href="https://github.com/mpranjal18">
+<img src="https://img.shields.io/github/followers/mpranjal18?style=for-the-badge&logo=github&color=5EEAD4"/>
+</a>
+
+<a href="https://github.com/mpranjal18">
+<img src="https://img.shields.io/github/stars/mpranjal18?style=for-the-badge&logo=github&color=5EEAD4"/>
+</a>
+
+<a href="https://linkedin.com/in/mehra-pranjal">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mpranjal1805@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img width="420" src="https://user-images.githubusercontent.com/74038190/212750338-9918a6e8-5d8b-41d4-96c9-54cdbed38b2b.gif"/>
 
 </div>
 
 ---
 
-### 🧭 About Me
+# 👨‍💻 About Me
 
-Final-year Computer Science student at VIT Bhopal, building full-stack and AI-driven products end-to-end — solo, fast, and under real deadlines. I ship across **fintech, cybersecurity, and agritech**, using AI as leverage at every layer of the stack.
+```python
+class PranjalMehra:
 
-Selected from **20,000+ applicants** for Anthropic's Claude Impact Lab Hackathon (Mahakumbh track) — flown to Mumbai to build a missing-persons reunion system for Mahakumbh Nashik 2027.
+    def __init__(self):
 
-- 🔭 Currently building **Trackora**, an AI-powered career operating system, and an **AI SOC Assistant** for security operations
-- 🌱 Deepening my skills in **Agentic AI (LangChain & LangGraph)**, advanced system design, and LLM evaluation/reliability
-- 🤝 Open to collaborating on AI-powered products, cybersecurity tooling, and AI engineering with real-world impact
-- 💬 Ask me about full-stack dev (MERN/Django/FastAPI), REST APIs, prompt engineering, or shipping an idea to a deployed product
-- ⚡ Fun fact: I can take an idea from a blank screen to a deployed product faster than I can explain it
+        self.role = "AI Engineer"
+
+        self.education = "B.Tech CSE @ VIT Bhopal"
+
+        self.location = "India"
+
+        self.languages = [
+            "Python",
+            "TypeScript",
+            "JavaScript"
+        ]
+
+        self.interests = [
+            "AI",
+            "Cybersecurity",
+            "System Design",
+            "Backend Engineering",
+            "Cloud"
+        ]
+
+    def currently_building(self):
+
+        return [
+
+            "🛡 AI SOC Assistant",
+
+            "📈 Trackora",
+
+            "🤖 Agentic AI Applications",
+
+            "⚡ AI Powered Automation"
+
+        ]
+```
 
 ---
 
-### 💼 Experience
+## 🚀 About Me
 
-**AI Engineering Intern — Cosmic Attire** · Dec 2025 – Feb 2026
-Built two production mobile apps (User + Admin) for NFC-based smart ring management and digital payments in React Native + Supabase, with token-based auth and encrypted data storage; used AI prompt engineering daily to automate code review and generation.
+🎓 Final-year Computer Science student at **VIT Bhopal University**
 
-**Web Developer Intern — Zidio Development** · June 2025 – Aug 2025
-Shipped two full-stack MERN apps (a 3D/2D Excel analytics tool and a blogging platform), improved page load speed by 30% and engagement by 25%, and set up a GitHub Actions CI/CD pipeline maintaining 99% uptime on Netlify/Render.
+🤖 Passionate AI Engineer building production-ready AI products.
+
+⚡ Experienced in taking products from **Idea → Design → Development → Deployment**
+
+💻 Strong interest in
+
+- Artificial Intelligence
+- Full Stack Development
+- Cybersecurity
+- System Design
+- AI Agents
+- LLM Engineering
+
+🏆 Selected among **20,000+ participants** for **Anthropic Claude Impact Lab Hackathon**
+
+🌱 Currently mastering
+
+- LangChain
+- LangGraph
+- AI Agents
+- RAG Systems
+- Multi-Agent Systems
+- LLM Evaluation
+
+⚡ Motto
+
+> Build. Learn. Deploy. Repeat.
 
 ---
 
-### 🚀 Featured Projects
+# 🌐 Connect With Me
 
+<p align="center">
+
+<a href="mailto:mpranjal1805@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/mehra-pranjal">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/mpranjal18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Experience
+
+## 🚀 AI Engineering Intern
+
+### Cosmic Attire
+
+**Dec 2025 — Feb 2026**
+
+- Developed two production React Native applications.
+
+- Smart Ring User Application
+
+- Admin Dashboard
+
+- NFC Integration
+
+- Secure Wallet Management
+
+- AI Prompt Engineering
+
+- Token Based Authentication
+
+- Supabase Backend
+
+- Secure Payment System
+
+- Optimized application performance.
+
+---
+
+## 💻 Web Developer Intern
+
+### Zidio Development
+
+**June 2025 — Aug 2025**
+
+- Built multiple MERN applications.
+
+- Improved website performance by **30%**
+
+- Increased engagement by **25%**
+
+- Implemented GitHub Actions CI/CD
+
+- Deployed applications on Render & Netlify
+
+---
+
+# 🏆 Achievements
+
+🥇 Anthropic Claude Impact Lab Hackathon Finalist
+
+🏅 Built production AI applications
+
+🚀 Multiple Full Stack Applications
+
+🤖 AI Engineering Projects
+
+🛡 Cybersecurity Projects
+
+🌾 AI Agriculture Solutions
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
+
+# 🚀 Featured Projects
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-**🧠 Trackora**
-Solo-built AI career operating system — ATS resume scoring engine, Google OAuth auth layer, and full test coverage, shipped end-to-end in under 3 months.
-`Next.js 15` `TypeScript` `Express` `Prisma` `PostgreSQL` `Vitest/Supertest`
+# 🧠 Trackora
+
+### AI Powered Career Operating System
+
+An intelligent career platform that helps students and professionals manage resumes, ATS scores, job applications, interviews, and career growth.
+
+### ✨ Features
+
+- 🤖 AI Resume Analyzer
+- 📄 ATS Resume Scoring
+- 🔍 Resume Parsing
+- 🔐 Google OAuth Authentication
+- 📊 Dashboard Analytics
+- 📂 Resume Management
+- ⚡ Fast Backend APIs
+- 📱 Responsive UI
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,express,postgres,prisma,nodejs,tailwind"/>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-**🛡️ AI SOC Assistant**
-Security Operations Center assistant with a Sigma-rule detection engine and agentic backend.
-`FastAPI` `Pydantic v2` `SQLAlchemy 2.0` `LangChain/LangGraph` `FAISS` `Celery` `Redis`
+# 🛡 AI SOC Assistant
+
+### AI Security Operations Center
+
+AI-powered Security Operations Center assistant that helps analysts investigate threats faster using AI agents.
+
+### ✨ Features
+
+- Sigma Rule Detection
+- Threat Intelligence
+- IOC Lookup
+- Log Analysis
+- Malware Investigation
+- AI Chat Assistant
+- MITRE ATT&CK Mapping
+- RAG Knowledge Base
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,redis,docker,postgres"/>
+</p>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-**🌾 KrishiCredit**
-ML-based agricultural credit scoring engine — 85% accuracy, cut manual underwriting workload by 60% via SHAP-explainable predictions.
-`Random Forest` `SHAP` `FastAPI` `Python`
+# 🌾 KrishiCredit
+
+Machine Learning powered agricultural credit scoring platform.
+
+### Features
+
+- Credit Prediction
+
+- SHAP Explainability
+
+- Risk Analysis
+
+- Farmer Dashboard
+
+- Loan Recommendation
+
+### Tech
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi"/>
+
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-**🔒 SecuScan**
-Cybersecurity scanning tool built for real-world vulnerability detection and reporting.
-`Python` `Security Tooling`
+# 🔒 SecuScan
+
+Cybersecurity vulnerability scanner built for real-world penetration testing.
+
+### Features
+
+- Port Scanner
+
+- Vulnerability Detection
+
+- Security Reports
+
+- Authentication Testing
+
+- CVE Mapping
+
+### Tech
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-### 🎓 Certifications
+# 🛠 Tech Stack
 
-![IBM](https://img.shields.io/badge/IBM-Agentic%20AI%20with%20LangChain%20%26%20LangGraph-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-Fundamentals%20of%20Building%20AI%20Agents-052FAD?style=flat-square&logo=ibm&logoColor=white)
+## 👨‍💻 Languages
 
----
+<p align="center">
 
-### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,bash"/>
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black)
-
-**Databases & Infra**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🎨 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+
+</p>
+
+### AI Frameworks
+
+- LangChain
+- LangGraph
+- OpenAI API
+- Gemini API
+- Hugging Face
+- FAISS
+- RAG
+- Prompt Engineering
+- AI Agents
+- Agentic AI
+- LLM Evaluation
+
+---
+
+## 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase"/>
+
+</p>
+
+---
+
+## ☁ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,render,githubactions"/>
+
+</p>
+
+---
+
+## 🔧 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,notion"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/IBM-Agentic_AI_with_LangChain_&_LangGraph-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM-Building_AI_Agents-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</p>
+
+---
+
+# 🏅 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/mpranjal18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mpranjal18&label=Public%20Repos&query=$.public_repos&color=5EEAD4&style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/github/followers/mpranjal18?label=Followers&color=5EEAD4&style=for-the-badge&logo=github)
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2f7fe291-78a7-4f4f-89b2-8e91d5b0b67b.gif" width="450"/>
 
 </div>
 
+---
+
+# 📈 GitHub Analytics
 <div align="center">
-<sub>Live contribution stats can be found directly on <a href="https://github.com/mpranjal18">github.com/mpranjal18</a></sub>
+
+# 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpranjal18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpranjal18&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=mpranjal18&icon=10&color=5)](https://visitcount.itsvg.in)
+# 🔥 GitHub Streak
 
-<sub>Proudly built with GPRM ( https://gprm.itsvg.in )</sub>
+<img src="https://streak-stats.demolab.com?user=mpranjal18&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mpranjal18&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=mpranjal18&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📋 GitHub Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpranjal18&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mpranjal18&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mpranjal18&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpranjal18&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mpranjal18&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/mpranjal18/mpranjal18/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ Coding Activity
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mpranjal18&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+> **Note:** The WakaTime card only works if you have a WakaTime account connected. Remove this section if you don't use WakaTime.
+
+---
+
+<div align="center">
+
+# 🚀 Current Focus
+
+```text
+🔹 AI Engineering
+████████████████████ 100%
+
+🔹 Agentic AI
+███████████████████░ 95%
+
+🔹 Full Stack Development
+██████████████████░░ 90%
+
+🔹 Cybersecurity
+█████████████████░░░ 85%
+
+🔹 System Design
+████████████████░░░░ 80%
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# 💭 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+# ☕ Fun Facts
+
+💡 I enjoy turning ideas into production-ready software.
+
+🧠 Learning never stops.
+
+🚀 I believe consistency beats motivation.
+
+⚡ AI is my productivity multiplier.
+
+🛡 Security-first mindset in every project.
+
+🌍 Building products that create real-world impact.
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌍 Open Source
+
+Always open to collaborating on
+
+🤖 AI Products
+
+🛡 Cybersecurity Tools
+
+⚙ Developer Tools
+
+🌐 Full Stack Applications
+
+☁ Cloud Projects
+
+📚 Educational Platforms
+
+</div>
+
+---
+
+<div align="center">
+
+# 🤝 Let's Connect
+
+<a href="mailto:mpranjal1805@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/mehra-pranjal">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/mpranjal18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=mpranjal18&style=for-the-badge&color=5EEAD4"/>
+
+<br><br>
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0A0E14,100:5EEAD4"/>
+
+### 🚀 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=5EEAD4&center=true&width=500&lines=Happy+Coding!;Build+Something+Amazing!;Keep+Learning!;See+You+Again!"/>
 
 </div>
