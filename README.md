@@ -158,23 +158,7 @@ Built for real-world vulnerability detection and reporting.
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2f7fe291-78a7-4f4f-89b2-8e91d5b0b67b.gif" width="450"/>
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpranjal18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpranjal18&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-
----
-
-<div align="center">
 
 ## 🚀 Current Focus
 
