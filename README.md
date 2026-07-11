@@ -172,10 +172,6 @@ Built for real-world vulnerability detection and reporting.
 <div align="center">
 
 
-</div>
-
-> **Note:** GitHub stats/trophy widgets are served by a shared public Vercel instance — if an image doesn't render, it's usually that service being rate-limited, and it typically fixes itself on refresh.
-
 ---
 
 <div align="center">
@@ -238,7 +234,7 @@ Built for real-world vulnerability detection and reporting.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mpranjal18&style=for-the-badge&color=5EEAD4"/>
+<img src="https://komarev.com/ghpvc/?username=mpranjal18&style=for-the-badge&color=5EEAD4&base=1000"/>
 
 <br><br>
 ⭐ **If you like my work, consider giving a star to my repositories!**
