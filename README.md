@@ -3,8 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:5EEAD4&height=220&section=header&text=Pranjal%20Mehra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Prompt%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Systems%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/mehra-pranjal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mpranjal1805@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/thatsme._.18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:mpranjal1805@gmail.com"><img src="https://img.shields.io/badge/Email-mpranjal1805%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+from+idea+to+deployment;Prompt+Engineering+%7C+Agentic+AI+%7C+LangChain+%2F+LangGraph;Full-Stack+Dev+%7C+Cybersecurity+%7C+Applied+ML" alt="Typing SVG" />
 
@@ -14,15 +13,25 @@
 
 ### 🧭 About Me
 
-I'm a final-year Computer Science student, currently working as a **Prompt Engineer at Cosmic Attire**, designing AI prompts, workflows, and conversational logic for intelligent, human-centric experiences. Alongside this, I build full-stack and AI-driven systems spanning **fintech, cybersecurity, and agritech** — from secure web apps and REST APIs to production-grade ML pipelines.
+Final-year Computer Science student at VIT Bhopal, building full-stack and AI-driven products end-to-end — solo, fast, and under real deadlines. I ship across **fintech, cybersecurity, and agritech**, using AI as leverage at every layer of the stack.
 
-Selected from **20,000+ applicants** for India's first **Claude Impact Lab Hackathon** (top 200), where I built a missing-persons solution for Mahakumbh Nashik 2027.
+Selected from **20,000+ applicants** for Anthropic's Claude Impact Lab Hackathon (Mahakumbh track) — flown to Mumbai to build a missing-persons reunion system for Mahakumbh Nashik 2027.
 
-- 🔭 Currently building **Trackora** — an AI Career Operating System, and an **AI SOC Assistant** for security operations
+- 🔭 Currently building **Trackora**, an AI-powered career operating system, and an **AI SOC Assistant** for security operations
 - 🌱 Deepening my skills in **Agentic AI (LangChain & LangGraph)**, advanced system design, and LLM evaluation/reliability
 - 🤝 Open to collaborating on AI-powered products, cybersecurity tooling, and applied ML with real-world impact
-- 💬 Ask me about prompt engineering, MERN/Django/FastAPI, REST APIs, AI chatbots, or shipping an idea to a deployed product
+- 💬 Ask me about full-stack dev (MERN/Django/FastAPI), REST APIs, prompt engineering, or shipping an idea to a deployed product
 - ⚡ Fun fact: I can take an idea from a blank screen to a deployed product faster than I can explain it
+
+---
+
+### 💼 Experience
+
+**AI Engineering Intern — Cosmic Attire** · Dec 2025 – Feb 2026
+Built two production mobile apps (User + Admin) for NFC-based smart ring management and digital payments in React Native + Supabase, with token-based auth and encrypted data storage; used AI prompt engineering daily to automate code review and generation.
+
+**Web Developer Intern — Zidio Development** · June 2025 – Aug 2025
+Shipped two full-stack MERN apps (a 3D/2D Excel analytics tool and a blogging platform), improved page load speed by 30% and engagement by 25%, and set up a GitHub Actions CI/CD pipeline maintaining 99% uptime on Netlify/Render.
 
 ---
 
@@ -120,10 +129,6 @@ Cybersecurity scanning tool built for real-world vulnerability detection and rep
 
 <div align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=mpranjal18&theme=vue-dark&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
 ---
