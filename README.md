@@ -19,31 +19,16 @@
 
 ## 👨‍💻 About Me
 
-```python
-class PranjalMehra:
-    def __init__(self):
-        self.role = "AI Engineer & Full-Stack Developer"
-        self.education = "B.Tech CSE @ VIT Bhopal University (2023-2027)"
-        self.location = "Bhopal, India"
-        self.languages = ["Python", "TypeScript", "JavaScript"]
-        self.interests = [
-            "AI Agents", "Cybersecurity", "System Design",
-            "Backend Engineering", "LLM Engineering"
-        ]
-
-    def currently_building(self):
-        return [
-            "🛡️ AI SOC Assistant",
-            "📈 Trackora — AI Career OS",
-            "🤖 Agentic AI Applications"
-        ]
-```
-
 🎓 Final-year Computer Science student at **VIT Bhopal University** (CGPA 8.12/10)
+🤖 AI Engineer building production-ready AI products, end-to-end
 ⚡ Experienced in taking products from **Idea → Design → Development → Deployment**, solo and fast
 🏆 Selected among **20,000+ applicants** for Anthropic's Claude Impact Lab Hackathon (Mahakumbh track) — flown to Mumbai to build a missing-persons reunion system for Mahakumbh Nashik 2027
 
+💻 Strong interest in: AI Agents · Full Stack Development · Cybersecurity · System Design · LLM Engineering
+
 🌱 Currently mastering: LangChain · LangGraph · Multi-Agent Systems · RAG · LLM Evaluation
+
+🔭 Currently building: **AI SOC Assistant** · **Trackora — AI Career OS** · Agentic AI Applications
 
 > Build. Learn. Deploy. Repeat.
 
@@ -186,15 +171,6 @@ Built for real-world vulnerability detection and reporting.
 
 <div align="center">
 
-### 🔥 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=mpranjal18&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=mpranjal18&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -213,6 +189,16 @@ Built for real-world vulnerability detection and reporting.
 🔹 Cybersecurity             █████████████████░░░  85%
 🔹 System Design             ████████████████░░░░  80%
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
